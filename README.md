@@ -11,7 +11,7 @@ share ideas, sentiments, opinions, and emotions with each
 other; reflecting their attitude, behaviour and personality.
 Obviously, a solid connection exists between individual’s
 temperament and the behaviour they show on social networks
-in the form of comments or tweets [2].
+in the form of comments or tweets .
 Nowadays personality recognition from social networking
 sites has attracted the attention of researchers for developing
 automatic personality recognition systems.
