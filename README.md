@@ -17,7 +17,7 @@ sites has attracted the attention of researchers for developing
 automatic personality recognition systems.
 
 ## Our Approach
-![alt](https://i.gifer.com/Gi1m.gif)
+![Alt Text](https://static.wixstatic.com/media/214ca8_bee5b1b795034b82a4530bc9d27e68e5~mv2.gif)
 However, the
 major issue associated with the aforementioned studies is the
 skewness of the datasets, i.e. presence of imbalanced classes
