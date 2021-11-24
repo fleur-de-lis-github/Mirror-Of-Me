@@ -4,7 +4,7 @@ Personality of a person encircles every aspect of life. It
 describes the pattern of thinking, feeling and characteristics
 that predict and describe an individual’s behaviour and also
 influences daily life activities including emotions, preference,
-motives and health [1].
+motives and health .
 The increasing use of Social Networking Sites, such as
 Twitter and Facebook have propelled the online community to
 share ideas, sentiments, opinions, and emotions with each
@@ -17,6 +17,7 @@ sites has attracted the attention of researchers for developing
 automatic personality recognition systems.
 
 ## Our Approach
+![alt](https://i.gifer.com/Gi1m.gif)
 However, the
 major issue associated with the aforementioned studies is the
 skewness of the datasets, i.e. presence of imbalanced classes
